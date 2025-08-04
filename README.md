@@ -41,5 +41,15 @@ Certifications and Certificates:
 
 currently_learning: ["SQL, C++"]
 2025_goals: ["Finish the Google Cybersecurity Professional Certificate program, Obtain the CompTIA Network+"]
+cybersecurity_blog: ["https://hackherworld.com/"]
 
 ```
+
+## 🚀Tools I Have Used and Learned
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="bash" width="45" height="45"/>
+</p>
+
