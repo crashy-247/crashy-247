@@ -24,7 +24,7 @@ work_experience:
   [
     "Marist University, Cybersecurity Analyst, January 2025-Present",
     "Ulster BOCES, Network Support Specialist I, April 2024-December 2024",
-    "Intern: New York State Bridge Authority, April 2021-December 2023",
+    "New York State Bridge Authority, IT Intern, April 2021-December 2023",
   ]
 
 Certifications and Certificates:
