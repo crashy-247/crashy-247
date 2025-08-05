@@ -8,8 +8,8 @@ company: Marist University
 
 education:
   [
-    "Bachelor's of Science in Cybersecurity with a Digital Forensics concentration, Norwich University, 2024",
-    "In progress: Master's of Science in Cybersecurity with a Digital Forensics and Incident Response Concentration, 2026",
+    "In progress: Master's of Science in Cybersecurity with a Digital Forensics and Incident Response Concentration, Norwich University, 2025-2026",
+    "Bachelor's of Science in Cybersecurity with a Digital Forensics concentration, Norwich University, 2021-2024",
   ]
 
 fields_of_interest:
