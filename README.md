@@ -55,3 +55,6 @@ cybersecurity_blog: ["https://hackherworld.com/"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" alt="bash" width="45" height="45"/>
 </p>
 
+## TryHackMe Progress
+<img src="https://tryhackme-badges.s3.amazonaws.com/crashy.png" alt="Your Image Badge" />
+
